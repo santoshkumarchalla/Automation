@@ -1,0 +1,15 @@
+2023-12-27 12:59:58,571 - INFO: File organization script started.
+2023-12-27 12:59:58,577 - INFO: Moved git_commands.pdf to D:\Learn_visual_studio\test_folder\PDFFiles
+2023-12-27 12:59:58,581 - INFO: Moved hello.txt - Copy.txt to D:\Learn_visual_studio\test_folder\TextFiles
+2023-12-27 12:59:58,583 - INFO: Moved hello.txt.txt to D:\Learn_visual_studio\test_folder\TextFiles
+2023-12-27 12:59:58,591 - INFO: Moved image - Copy.jpg to D:\Learn_visual_studio\test_folder\ImageFiles
+2023-12-27 12:59:58,600 - INFO: Moved image.jpg to D:\Learn_visual_studio\test_folder\ImageFiles
+2023-12-27 12:59:58,601 - INFO: File organization script completed successfully.
+2023-12-27 13:07:45,721 - INFO: File organization script started.
+2023-12-27 13:07:45,723 - INFO: Backup folder zipped to D:\Learn_visual_studio\test_folder\backup_archive.zip
+2023-12-27 13:07:45,724 - INFO: Moved git_commands.pdf to D:\Learn_visual_studio\test_folder\PDFFiles
+2023-12-27 13:07:45,725 - INFO: Moved hello.txt - Copy.txt to D:\Learn_visual_studio\test_folder\TextFiles
+2023-12-27 13:07:45,726 - INFO: Moved hello.txt.txt to D:\Learn_visual_studio\test_folder\TextFiles
+2023-12-27 13:07:45,727 - INFO: Moved image - Copy.jpg to D:\Learn_visual_studio\test_folder\ImageFiles
+2023-12-27 13:07:45,729 - INFO: Moved image.jpg to D:\Learn_visual_studio\test_folder\ImageFiles
+2023-12-27 13:07:45,729 - INFO: File organization script completed successfully.
